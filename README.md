@@ -58,3 +58,23 @@ https://www.youtube.com/playlist?list=PLoK4oIB1jeK0LHLbZW3DTT05e4srDYxFq
 ### Time Series Analysis using R
 http://r-statistics.co/Time-Series-Analysis-With-R.html
 
+
+### Machine Learning For Humans
+https://bit.ly/mlforhumansbook
+
+### Python for Data Analysis 
+https://amzn.to/2Z1QZNp
+### Hands-on Machine Learning with Scikit-Learn and TensorFlow 
+https://amzn.to/2GormNb
+
+### Grokking Deep Learning
+https://amzn.to/2H497My
+
+### The Mechanics of Machine Learning
+https://mlbook.explained.ai/
+
+### The Hundred-Page Machine Learning Book (online)
+https://bit.ly/100pageMLbookhome
+
+### The Deep Learning Book (online) 
+https://www.deeplearningbook.org/
